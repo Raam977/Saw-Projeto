@@ -1,54 +1,101 @@
-# SAW
-Projeto de Segurança de Aplicações Web
+# 🔐 SAW – Segurança de Aplicações Web
 
-# Objetivo 
+Projeto académico no âmbito da unidade curricular de **Segurança de Aplicações Web**, focado na construção de uma aplicação Web segura para **Gestão de Salas**, com implementação em **PHP** e **MySQL**.
 
-O objetivo do trabalho consiste na elaboração de uma aplicação Web em PHP
-e MySQL que sirva de apoio a uma Gestão da Salas, contendo o seguinte conjunto
-de funcionalidades:
+---
 
- Registo de utilizadores;
+## 🎯 Objetivo
 
- Recuperação da conta (“Forgot me”);
+Desenvolver uma aplicação Web que permita gerir a utilização de salas, assegurando os princípios de segurança, privacidade e controlo de acessos.
 
- “Remember me”
+---
 
- Autenticação
+## 🧩 Funcionalidades
 
- Três áreas:
-o Uma área pública visível para todos os utilizadores (registados e não
-registados)
+### 🧾 Funcionalidades gerais:
+- Registo de utilizadores
+- Recuperação de conta ("Forgot me")
+- "Remember me" com sessão persistente
+- Autenticação de utilizadores
 
- Devem ser listadas todas as salas, mas sem informação do seu
-estado.
+---
 
-o Uma área para utilizadores registados (utentes)
- Contendo um perfil do utilizador
+## 🌐 Áreas da Aplicação
 
- Um utilizador pode associar uma imagem ao seu perfil
+### 1. Área Pública
+Visível a todos os utilizadores, registados ou não.
 
- Alterar os seus dados
+- Listagem de todas as salas existentes
+- Não apresenta o estado das salas
 
- Não pode ter acesso ao perfil dos outros utentes
+---
 
- Contendo uma área para consulta das salas com informação da
-sua disponibilidade, por dia e hora.
+### 2. Área do Utilizador Registado (Utente)
+Apenas acessível após login.
 
- Possibilitar requisitar uma sala para um determinado dia e hora.
-Quando é feita a requisição de uma sala, esta deve passar a indisponível para reserva num determinado dia e hora. 
+- **Perfil de utilizador**
+  - Upload de imagem de perfil
+  - Edição dos próprios dados
+  - Restrição de acesso ao perfil de outros utentes
 
- Deve ser possível ter acesso a uma listagem de todas as salas já
-requisitadas por si.
+- **Gestão de Salas**
+  - Consulta da disponibilidade das salas por dia e hora
+  - Requisição de salas (reserva que torna a sala indisponível para os restantes)
+  - Listagem das salas requisitadas pelo próprio
 
-o Uma área para Administração
- Contendo um perfil do Administrador
+---
 
- Contendo uma listagem dos utilizadores existentes na plataforma
-com uma opção de visualização das salas atualmente requisitadas
-por um professor
+### 3. Área de Administração
+Acesso restrito a utilizadores com permissões de administrador.
 
- Uma área que permita fazer a manutenção dos salas, inserir,
-alterar, eliminar com indicação do seu estado (disponível,
-indisponível, brevemente)
+- **Gestão de Utilizadores**
+  - Listagem de todos os utilizadores
+  - Visualização das salas requisitadas por cada professor
 
- Uma área para indicar a ocupação de salas por dia. 
+- **Gestão de Salas**
+  - Inserção, alteração e eliminação de salas
+  - Atribuição de estado: Disponível, Indisponível, Brevemente
+
+- **Ocupação de Salas**
+  - Indicação e visualização da ocupação das salas por dia
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+- **Linguagem Backend:** PHP (sem frameworks)
+- **Base de Dados:** MySQL
+- **Frontend:** HTML5, CSS3, JavaScript (puro)
+- **Segurança:** 
+  - Proteção contra SQL Injection
+  - Hashing de palavras-passe (bcrypt)
+  - Validação e sanitização de inputs
+  - MFA 2F (Google Authenticator)
+  - Bloqueio de tentativas de bruteforce (ip publico e mac address)
+  - Email de aviso de bruteforce de falhas para admins
+  - Recuperação de password por e-mail com token que expira e só é valido pelo umavesz.
+  - Necessário código para alterar palavra-passe que é enviado por e-mail.
+---
+
+---
+
+## 🔒 Considerações de Segurança
+
+- **Autenticação baseada em sessão**
+- **Proteção contra CSRF e XSS**
+- **Gestão de permissões por perfil**
+- **Validação do lado cliente e servidor**
+
+---
+
+## 👥 Autores
+
+- Ricardo Mendes  
+- Diogo Melo
+
+---
+
+## 📜 Licença
+
+Este projeto é apenas para fins académicos.
+
