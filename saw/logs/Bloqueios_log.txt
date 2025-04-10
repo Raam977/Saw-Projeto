@@ -1,0 +1,1 @@
+[2024-12-10 22:39:14] BLOQUEIO -> IP: 127.0.0.1, IP Público: xx.xxx.xxx.xx, MAC: 00-00-00-00-00-00   \Device\Tcpip_{A00000-45FA-0451A-857A-000000}, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20000 Firefox/100.0, Tentativas excessivas de login.

@@ -1,0 +1,112 @@
+Log de validação de nomes
+[2024-12-12 15:08:50] Nome 'joão' não encontrado como válido pela API.
+[2024-12-12 15:13:12] Nome 'joão' não encontrado pela API. {"faultCause":"BadRequest","blame":"CLIENT","message":"No apiKey provided in URL!","applicationErrorCode":"1120","retrySameLocation":{"retryType":"NO"},"retryOtherLocations":{"retryType":"NO"},"httpStatusCode":400,"httpStatusMeaning":"Bad Request"} ; Array
+[2024-12-12 15:13:12] Nome 'joão' não encontrado como válido pela API.
+[2024-12-12 15:15:55] Nome 'joão' não encontrado pela API. aafafafdada9-user1 ; Array
+[2024-12-12 15:15:55] Nome 'joão' não encontrado como válido pela API.
+[2024-12-12 15:17:01] Nome 'joao' não encontrado pela API. {"faultCause":"BadRequest","blame":"CLIENT","message":"No apiKey provided in URL!","applicationErrorCode":"1120","retrySameLocation":{"retryType":"NO"},"retryOtherLocations":{"retryType":"NO"},"httpStatusCode":400,"httpStatusMeaning":"Bad Request"} ; Array
+[2024-12-12 15:17:01] Nome 'joao' não encontrado como válido pela API.
+[2024-12-12 15:18:09] Nome 'afafds' não encontrado pela API. {"faultCause":"BadRequest","blame":"CLIENT","message":"No apiKey provided in URL!","applicationErrorCode":"1120","retrySameLocation":{"retryType":"NO"},"retryOtherLocations":{"retryType":"NO"},"httpStatusCode":400,"httpStatusMeaning":"Bad Request"} ;afafaf-user1; Array
+[2024-12-12 15:18:09] Nome 'afafds' não encontrado como válido pela API.
+[2024-12-12 15:19:57] Nome 'joão' não encontrado pela API. {"faultCause":"BadRequest","blame":"CLIENT","message":"No apiKey provided in URL!","applicationErrorCode":"1120","retrySameLocation":{"retryType":"NO"},"retryOtherLocations":{"retryType":"NO"},"httpStatusCode":400,"httpStatusMeaning":"Bad Request"} ;afgafqfaf-user1; Array
+[2024-12-12 15:19:57] Nome 'joão' não encontrado como válido pela API.
+[2024-12-12 15:35:07] Nome 'joão' identificado como gênero: male pela API.
+[2024-12-12 15:35:07] Nome 'joão' validado com sucesso pela API.
+[2024-12-12 15:35:42] Nome 'sberjnd' não identificado pela API. Resposta: {"count":0,"name":"sberjnd","gender":null,"probability":0.0}
+[2024-12-12 15:35:42] Nome 'sberjnd' não encontrado como válido pela API.
+[2024-12-12 16:40:06] Nome 'sberjnd' não identificado pela API. Resposta: {"count":0,"name":"sberjnd","gender":null,"probability":0.0}
+[2024-12-12 16:40:06] Nome 'sberjnd' não encontrado como válido pela API.
+[2024-12-12 16:42:28] Nome 'joão' identificado como gênero: male pela API.
+[2024-12-12 16:42:28] Nome 'joão' validado com sucesso pela API.
+[2024-12-12 16:42:50] Nome 'sgrehreh' não identificado pela API. Resposta: {"count":0,"name":"sgrehreh","gender":null,"probability":0.0}
+[2024-12-12 16:42:50] Nome 'sgrehreh' não encontrado como válido pela API.
+[2024-12-12 22:37:52] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-12 22:37:52] Nome 'joao' validado com sucesso pela API.
+[2024-12-12 22:40:17] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-12 22:40:17] Nome 'joao' validado com sucesso pela API.
+[2024-12-12 22:42:17] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-12 22:42:17] Nome 'joao' validado com sucesso pela API.
+[2024-12-12 22:42:55] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-12 22:42:55] Nome 'joao' validado com sucesso pela API.
+[2024-12-12 22:46:23] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-12 22:46:23] Nome 'joao' validado com sucesso pela API.
+[2024-12-12 22:46:50] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-12 22:46:50] Nome 'joao' validado com sucesso pela API.
+[2024-12-12 22:47:59] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 22:47:59] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 22:52:01] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 22:52:01] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 22:54:48] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 22:54:48] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 22:56:34] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 22:56:34] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:01:00] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 23:01:00] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:03:31] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 23:03:31] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:06:02] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 23:06:02] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:08:30] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 23:08:30] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:12:00] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 23:12:00] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:14:52] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 23:14:52] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:16:00] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 23:16:00] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:16:59] Nome 'antonio' identificado como gênero: male pela API.
+[2024-12-12 23:16:59] Nome 'antonio' validado com sucesso pela API.
+[2024-12-12 23:36:21] Nome 'diogo' identificado como gênero: male pela API.
+[2024-12-12 23:36:21] Nome 'diogo' validado com sucesso pela API.
+[2024-12-12 23:37:19] Nome 'diogo' identificado como gênero: male pela API.
+[2024-12-12 23:37:19] Nome 'diogo' validado com sucesso pela API.
+[2024-12-12 23:50:45] Nome 'fbdbdb' não identificado pela API. Resposta: {"count":0,"name":"fbdbdb","gender":null,"probability":0.0}
+[2024-12-12 23:50:45] Nome 'fbdbdb' não encontrado como válido pela API.
+[2024-12-12 23:53:39] Nome 'fbdbdb' não identificado pela API. Resposta: {"count":0,"name":"fbdbdb","gender":null,"probability":0.0}
+[2024-12-12 23:53:39] Nome 'fbdbdb' não encontrado como válido pela API.
+[2024-12-12 23:54:48] Nome 'fbdbdb' não identificado pela API. Resposta: {"count":0,"name":"fbdbdb","gender":null,"probability":0.0}
+[2024-12-12 23:54:48] Nome 'fbdbdb' não encontrado como válido pela API.
+[2024-12-12 23:56:41] Nome 'fbdbdb' não identificado pela API. Resposta: {"count":0,"name":"fbdbdb","gender":null,"probability":0.0}
+[2024-12-12 23:56:41] Nome 'fbdbdb' não encontrado como válido pela API.
+[2024-12-12 23:57:10] Nome 'fbdbdb' não identificado pela API. Resposta: {"count":0,"name":"fbdbdb","gender":null,"probability":0.0}
+[2024-12-12 23:57:10] Nome 'fbdbdb' não encontrado como válido pela API.
+[2024-12-13 00:30:04] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:30:04] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 00:30:42] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:30:42] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 00:31:34] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:31:34] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 00:38:49] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:38:49] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 00:40:43] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:40:43] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 00:41:01] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:41:01] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 00:41:30] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:41:30] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 00:43:41] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:43:41] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 00:55:57] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 00:55:57] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 01:02:19] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 01:02:19] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 01:45:07] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 01:45:07] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 01:59:03] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 01:59:03] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 02:03:19] Nome 'ricardo' identificado como gênero: male pela API.
+[2024-12-13 02:03:19] Nome 'ricardo' validado com sucesso pela API.
+[2024-12-13 02:10:36] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-13 02:10:36] Nome 'joao' validado com sucesso pela API.
+[2024-12-13 02:14:27] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-13 02:14:27] Nome 'joao' validado com sucesso pela API.
+[2024-12-13 02:17:31] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-13 02:17:31] Nome 'joao' validado com sucesso pela API.
+[2024-12-13 02:20:19] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-13 02:20:19] Nome 'joao' validado com sucesso pela API.
+[2024-12-13 02:23:39] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-13 02:23:39] Nome 'joao' validado com sucesso pela API.
+[2024-12-13 02:27:13] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-13 02:27:13] Nome 'joao' validado com sucesso pela API.
+[2024-12-13 02:27:25] Nome 'joao' identificado como gênero: male pela API.
+[2024-12-13 02:27:25] Nome 'joao' validado com sucesso pela API.

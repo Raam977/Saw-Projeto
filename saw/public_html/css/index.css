@@ -1,0 +1,98 @@
+
+    /* Estilos principais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(57, 57, 57); /* Cor de fundo escura */
+    color: #fff;
+    background-image: url('../ressources/imagem3.jpg'); /* Caminho para o wallpaper */
+    background-size: cover;
+    background-position: center;
+    margin-left: auto; /* aqui */
+    margin-right: auto; /* e aqui */
+}
+
+.blur-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(8px);
+    z-index: -1;
+}
+
+
+h1, h2 {
+    color: rgb(255, 255, 255); /* Cor principal */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6); /* Sombras para destacar o texto */
+    margin-left: auto; /* aqui */
+    margin-right: auto; /* e aqui */
+}
+
+.btn {
+    background-color: rgb(9, 173, 234); /* Cor principal */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+
+    border-radius: 5px;
+    margin-left: auto; /* aqui */
+    margin-right: auto; /* e aqui */
+}
+
+.btn:hover {
+    background-color: rgb(201, 77, 36); /* Cor secundária ao passar o mouse */
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+
+    background-color: rgba(255, 255, 255, 0.1); /* Fundo com transparência */
+    margin-left: auto; /* aqui */
+    margin-right: auto; /* e aqui */
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    margin-left: auto; /* aqui */
+    margin-right: auto; /* e aqui */
+}
+
+th {
+    background-color: rgb(9, 173, 234); /* Cor principal para cabeçalhos */
+}
+
+td {
+    background-color: rgb(57, 57, 57); /* Cor escura para o corpo da tabela */
+}
+
+.error {
+    color: red;
+}
+
+.logout-form {
+    margin-top: 20px;
+}
+
+.logout-form button {
+    background-color: rgb(201, 77, 36); /* Cor secundária */
+}
+
+
+    .user-profile-pic {
+        width: 100px; /* Ajusta a largura */
+        height: 100px; /* Ajusta a altura */
+        border-radius: 50%; /* Mantém o formato redondo */
+        object-fit: cover; /* Garante que a imagem se ajuste sem distorcer */
+    }
+

@@ -1,0 +1,97 @@
+Log de validação de nomes
+[2024-12-12 22:54:49] Email não temporario ; Array
+[2024-12-12 22:56:34] Email temporario ; {"email":"noreplylocal@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-12 22:56:34] Email não temporario ; Array
+[2024-12-12 23:01:00] Email temporario ; 
+[2024-12-12 23:01:00] Email não temporario ; 
+[2024-12-12 23:03:31] Email temporario ; 
+[2024-12-12 23:03:31] Email não temporario ; 
+[2024-12-12 23:06:03] Email temporario ; {"email":"tiyifah475@iminko.com","autocorrect":"","deliverability":"UNDELIVERABLE","quality_score":"0.00","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":false,"text":"FALSE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":null,"text":"UNKNOWN"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":false,"text":"FALSE"}}
+[2024-12-12 23:06:03] Email não temporario ; Array
+[2024-12-12 23:08:31] Email temporario ; {"email":"tiyifah475@iminko.com","autocorrect":"","deliverability":"UNDELIVERABLE","quality_score":"0.00","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":false,"text":"FALSE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":null,"text":"UNKNOWN"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":false,"text":"FALSE"}}
+[2024-12-12 23:08:31] Quality score baixo (0.00): tiyifah475@iminko.com
+[2024-12-12 23:12:01] Email temporario ; {"email":"tiyifah475@iminko.com","autocorrect":"","deliverability":"UNDELIVERABLE","quality_score":"0.00","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":false,"text":"FALSE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":null,"text":"UNKNOWN"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":false,"text":"FALSE"}}
+[2024-12-12 23:12:01] Quality score baixo (0.00): tiyifah475@iminko.com
+[2024-12-12 23:14:53] Email temporario ; {"email":"tiyifah475@iminko.com","autocorrect":"","deliverability":"UNDELIVERABLE","quality_score":"0.00","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":false,"text":"FALSE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":null,"text":"UNKNOWN"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":false,"text":"FALSE"}}
+[2024-12-12 23:14:53] Quality score baixo (0.00): tiyifah475@iminko.com
+[2024-12-12 23:16:00] Email temporario ; {"email":"tiyifah475@iminko.com","autocorrect":"","deliverability":"UNDELIVERABLE","quality_score":"0.00","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":false,"text":"FALSE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":null,"text":"UNKNOWN"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":false,"text":"FALSE"}}
+[2024-12-12 23:16:00] Quality score baixo (0.00): tiyifah475@iminko.com
+[2024-12-12 23:17:00] Email temporario ; {"email":"tiyifah475@iminko.com","autocorrect":"","deliverability":"UNDELIVERABLE","quality_score":"0.00","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":false,"text":"FALSE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":null,"text":"UNKNOWN"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":false,"text":"FALSE"}}
+[2024-12-12 23:17:00] Quality score baixo (0.00): tiyifah475@iminko.com
+[2024-12-12 23:36:22] Email temporario ; {"email":"tiyifah475@iminko.com","autocorrect":"","deliverability":"UNDELIVERABLE","quality_score":"0.00","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":false,"text":"FALSE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":null,"text":"UNKNOWN"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":false,"text":"FALSE"}}
+[2024-12-12 23:36:22] Quality score baixo (0.00): tiyifah475@iminko.com
+[2024-12-12 23:37:20] Email temporario ; {"email":"diogomelo@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-12 23:37:20] Email não temporario ; Array
+[2024-12-12 23:50:46] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-12 23:50:46] Email não temporario ; Array
+[2024-12-12 23:53:40] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-12 23:53:40] Email não temporario ; Array
+(
+    [email] => joaogoncalves@gmail.com
+    [autocorrect] => 
+    [deliverability] => DELIVERABLE
+    [quality_score] => 0.95
+    [is_valid_format] => Array
+        (
+            [value] => 1
+            [text] => TRUE
+        )
+
+    [is_free_email] => Array
+        (
+            [value] => 1
+            [text] => TRUE
+        )
+
+    [is_disposable_email] => Array
+        (
+            [value] => 
+            [text] => FALSE
+        )
+
+    [is_role_email] => Array
+        (
+            [value] => 
+            [text] => FALSE
+        )
+
+    [is_catchall_email] => Array
+        (
+            [value] => 
+            [text] => FALSE
+        )
+
+    [is_mx_found] => Array
+        (
+            [value] => 1
+            [text] => TRUE
+        )
+
+    [is_smtp_valid] => Array
+        (
+            [value] => 1
+            [text] => TRUE
+        )
+
+)
+
+[2024-12-12 23:54:49] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-12 23:54:49] Email não temporario ; Quality score: 0.95, Is temporary: 
+[2024-12-12 23:56:42] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-12 23:56:42] Email não temporario ; Quality score: 0.95
+[2024-12-12 23:57:10] Email temporario ; {"email":"tiyifah475@iminko.com","autocorrect":"","deliverability":"UNDELIVERABLE","quality_score":"0.00","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":false,"text":"FALSE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":null,"text":"UNKNOWN"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":false,"text":"FALSE"}}
+[2024-12-12 23:57:10] Quality score baixo (0.00): tiyifah475@iminko.com
+[2024-12-13 02:10:36] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-13 02:10:36] Email não temporario ; Quality score: 0.95
+[2024-12-13 02:14:28] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-13 02:14:28] Email não temporario ; Quality score: 0.95
+[2024-12-13 02:17:32] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-13 02:17:32] Email não temporario ; Quality score: 0.95
+[2024-12-13 02:20:19] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-13 02:20:19] Email não temporario ; Quality score: 0.95
+[2024-12-13 02:23:39] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-13 02:23:39] Email não temporario ; Quality score: 0.95
+[2024-12-13 02:27:14] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-13 02:27:14] Email não temporario ; Quality score: 0.95
+[2024-12-13 02:27:26] Email temporario ; {"email":"joaogoncalves@gmail.com","autocorrect":"","deliverability":"DELIVERABLE","quality_score":"0.95","is_valid_format":{"value":true,"text":"TRUE"},"is_free_email":{"value":true,"text":"TRUE"},"is_disposable_email":{"value":false,"text":"FALSE"},"is_role_email":{"value":false,"text":"FALSE"},"is_catchall_email":{"value":false,"text":"FALSE"},"is_mx_found":{"value":true,"text":"TRUE"},"is_smtp_valid":{"value":true,"text":"TRUE"}}
+[2024-12-13 02:27:26] Email não temporario ; Quality score: 0.95

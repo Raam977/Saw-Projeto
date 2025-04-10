@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "optimaize/nameapi-client-php": "^5.0",
+        "sonata-project/google-authenticator": "^2.3",
+        "endroid/qr-code": "^4.8"
+    }
+}

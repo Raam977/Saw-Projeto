@@ -1,0 +1,148 @@
+
+    /* Resetando margens e preenchimentos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fundo com imagem e efeito de blur */
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    background: url('../ressources/imagem2.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+    line-height: 1.6;
+    padding: 0;
+    margin: 0;
+}
+
+.blur-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(8px);
+    z-index: -1;
+}
+
+/* Cabeçalho */
+header {
+    background-color: rgb(9, 173, 234); /* Azul Principal */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 5px solid rgb(201, 77, 36); /* Cor Secundária */
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+/* Container Principal */
+.container {
+    max-width: 400px;
+    margin: 80px auto;
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.85); /* Fundo Levemente transparente */
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.container h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(9, 173, 234); /* Azul Principal */
+    font-weight: 600;
+}
+
+/* Formulário de login */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+label {
+    font-size: 1.1rem;
+}
+
+input[type="text"], input[type="password"] {
+    padding: 10px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+}
+
+input[type="checkbox"] {
+    margin-top: 10px;
+}
+
+button {
+    background-color: rgb(9, 173, 234); /* Azul Principal */
+    color: white;
+    border: none;
+    padding: 14px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: rgb(201, 77, 36); /* Laranja Secundário */
+    transform: translateY(-3px);
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Links */
+p a {
+    color: rgb(9, 173, 234); /* Azul Principal */
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(9, 173, 234); /* Azul Principal */
+    color: white;
+    margin-top: 40px;
+}
+
+footer p {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    header {
+        padding: 15px;
+    }
+
+    .container {
+        padding: 20px;
+        margin: 20px;
+    }
+
+    button {
+        width: 100%;
+        padding: 15px;
+        font-size: 1rem;
+    }
+}

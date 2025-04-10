@@ -1,0 +1,8 @@
+# Bloqueia o acesso direto aos arquivos na pasta de imagens
+Order Deny,Allow
+Deny from all
+
+# Permite o acesso ao PHP (caso você precise exibir imagens dinamicamente via PHP)
+<FilesMatch "\.(php|php5|php7|phtml)$">
+    Allow from all
+</FilesMatch>

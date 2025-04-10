@@ -1,0 +1,8 @@
+[2024-12-10 22:31:16] IP: 127.0.0.1, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0, Login bem-sucedido para o usuário: admin.
+[2024-12-10 22:39:01] IP: 127.0.0.1, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0, Tentativa de login falhada para o usuário: aa.
+[2024-12-10 22:39:04] IP: 127.0.0.1, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0, Tentativa de login falhada para o usuário: aaa.
+[2024-12-10 22:39:06] IP: 127.0.0.1, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0, Tentativa de login falhada para o usuário: aaaa.
+[2024-12-10 22:39:09] IP: 127.0.0.1, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0, Tentativa de login falhada para o usuário: aaaa.
+[2024-12-10 22:39:12] IP: 127.0.0.1, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0, Tentativa de login falhada para o usuário: aaaaa.
+[2024-12-10 23:27:21] IP: 127.0.0.1, IP Publico: xx.xxx.xx.xx, MAC: 00-00-00-00-00-00   \Device\Tcpip_{A00000-45FA-0451A-857A-000000}, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0, Login bem-sucedido para o usuário: admin.
+[2024-12-10 23:27:28] IP: 127.0.0.1, IP Publico: xx.xxx.xx.xx, MAC: 00-00-00-00-00-00   \Device\Tcpip_{A00000-45FA-0451A-857A-000000}, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0, Tentativa de login falhada para o usuário: admin.

@@ -1,0 +1,13 @@
+[2024-12-10 16:31:34] Usuário: professor ze (ID: 33) - Usuário 33 reservou a sala 1 para a data 2024-12-12 das 14:00 às 15:00.
+[2024-12-10 16:59:23] Usuário: Teste (ID: 35) - reservou a sala 4 para a data 2024-12-12 das 18:00 às 17:00. O a reserva tem o (ID: 22) 
+[2024-12-10 17:01:41] Usuário: Teste (ID: 35) - reservou a sala 2 para a data 2024-12-12 das 14:00 às 15:00. A reserva tem o (ID: 23) 
+[2024-12-10 17:12:42] Usuário: Teste (ID: 35) - reservou a sala 1 para a data 2024-12-18 das 18:12 às 19:00. A reserva tem o (ID: 24) 
+[2024-12-10 19:22:35] Usuário: admin (ID: 28) - reservou a sala 1 para a data 2024-12-11 das 14:00 às 15:00. A reserva tem o (ID: 25) 
+[2024-12-10 19:23:03] Usuário: admin (ID: 28) - reservou a sala 2 para a data 2024-12-11 das 14:00 às 15:00. A reserva tem o (ID: 26) 
+[2024-12-10 19:27:22] Usuário: admin (ID: 28) - reservou a sala 1 para a data 2024-12-12 das 14:00 às 15:00. A reserva tem o (ID: 27) 
+[2024-12-10 19:27:38] Usuário: admin (ID: 28) - reservou a sala 1 para a data 2024-12-11 das 15:00 às 16:00. A reserva tem o (ID: 28) 
+[2024-12-10 19:30:54] Usuário: admin (ID: 28) - reservou a sala 1 para a data 2024-12-12 das 14:00 às 15:00. A reserva tem o (ID: 29) 
+[2024-12-10 19:33:19] Usuário: admin (ID: 28) - reservou a sala 1 para a data 2024-12-11 das 14:00 às 15:00. A reserva tem o (ID: 30) 
+[2024-12-10 19:57:33] Usuário: Teste (ID: 35) - reservou a sala 1 para a data 2024-12-18 das 14:00 às 15:00. A reserva tem o (ID: 31) 
+[2024-12-13 00:01:43] Usuário: admin (ID: 28) - reservou a sala 1 para a data 2024-12-25 das 14:00 às 15:00. A reserva tem o (ID: 32) 
+[2024-12-13 00:12:28] Usuário: admin (ID: 28) - reservou a sala 1 para a data 2024-12-25 das 19:00 às 20:00. A reserva tem o (ID: 33) 

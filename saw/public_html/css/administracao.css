@@ -1,0 +1,133 @@
+
+    /* Resetando margens e preenchimentos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fundo com imagem e efeito de blur */
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    background: url('../ressources/imagem1.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    line-height: 1.6;
+    padding: 0;
+    margin: 0;
+}
+
+.blur-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+    z-index: -1;
+}
+
+/* Cabeçalho */
+header {
+    background-color: rgb(9, 173, 234); /* Azul Principal */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 5px solid rgb(201, 77, 36); /* Cor Secundária */
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+header p {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+/* Container Principal */
+.container {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.45); /* Fundo Levemente transparente */
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos e Mensagens */
+.welcome-message {
+    font-size: 1.6rem;
+    margin-bottom: 30px;
+    text-align: center;
+    color: rgb(9, 173, 234); /* Azul Principal */
+    font-weight: 600;
+}
+
+/* Formulários e Botões */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+button {
+    background-color: rgb(9, 173, 234); /* Azul Principal */
+    color: white;
+    border: none;
+    padding: 14px 30px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 220px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-color: rgb(201, 77, 36); /* Laranja Secundário */
+    transform: translateY(-3px);
+}
+
+button.logout-btn {
+    background-color: #FF4F00; /* Vermelho para logout */
+}
+
+button.logout-btn:hover {
+    background-color: #D83F00;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(9, 173, 234); /* Azul Principal */
+    color: white;
+    margin-top: 40px;
+}
+
+footer p {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    header {
+        padding: 15px;
+    }
+
+    .container {
+        padding: 20px;
+        margin: 20px;
+    }
+
+    button {
+        width: 100%;
+        padding: 15px;
+        font-size: 1rem;
+    }
+}
